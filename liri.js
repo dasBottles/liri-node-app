@@ -23,16 +23,14 @@ const concertThis = () => {
     axios.get(queryURL)
     .then(
         function(response) {
-
+            // data variables
             let userSearch = response.data[0];
-
-            console.log(`\nHere is ${userSearch.artist.name}'s next show!\n`);
-
-            // Prints location/venue of event
             let venue = userSearch.venue;
-            console.log(`\nArtist: ${userSearch.lineup[0]} \nVenue: ${venue.name}\nVenue Location: ${venue.latitude}, ${venue.longitude}\nVenue City: ${venue.city}, ${venue.country}`)
             let date = userSearch.datetime;
-            console.log(moment(date).format('dddd, MMMM Do YYYY, h:mm a'));
+
+            // Prints details of event
+            console.log(`\nHere is ${userSearch.artist.name}'s next show!\n`);
+            console.log(`\nArtist: ${userSearch.lineup[0]} \nVenue: ${venue.name}\nVenue Location: ${venue.latitude}, ${venue.longitude}\nVenue City: ${venue.city}, ${venue.country}\nTime: ${moment(date).format('dddd, MMMM Do YYYY, h:mm a')}`)
         }
     )
     .catch(function(error) {
@@ -57,6 +55,12 @@ const concertThis = () => {
     });
 }
 
+// spotify-this 
+const spotifyThis = () => {
+    spotify.search({type: 'track', query: userQuery, limit: 1}, function(err, data) {
+        if (err) throw err;
+    })
+}
 
 const command = (userInput, userQuery) => {
     switch (userInput) {
