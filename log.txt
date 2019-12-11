@@ -1,0 +1,50 @@
+
+= = = = = concert-this = = = = =
+
+Here is Post Malone's next show!
+Artist: Post Malone
+Venue: CHI Health Center Omaha
+Venue Location: 41.2624236, -95.9282394
+Venue City: Omaha, United States
+Time: Tuesday, February 4th 2020, 7:00 pm
+
+= = = = = concert-this = = = = =
+
+
+
+= = = = = spotify-this-song = = = = =
+
+Artist: Future
+Song title: Fine China
+Spotify link: https://open.spotify.com/track/5274I4mUMnYczyeXkGDWZN
+Album name: Future & Juice WRLD Present... WRLD ON DRUGS
+
+= = = = = spotify-this-song = = = = =
+
+
+
+= = = = = movie-this = = = = =
+
+title: Joker
+year: 2019
+rating: R
+tomatoRating: 69%
+country: USA, Canada
+language: English
+plot: In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.
+actors: Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy
+
+= = = = = movie-this = = = = =
+
+
+
+= = = = = spotify-this-song = = = = =
+
+Artist: GroovyRoom
+Song title: Sunday (feat. HEIZE, Jay Park)
+Spotify link: https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4
+Album name: EVERYWHERE
+
+= = = = = spotify-this-song = = = = =
+
+
