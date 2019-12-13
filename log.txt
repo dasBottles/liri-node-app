@@ -14,10 +14,10 @@ Time: Tuesday, February 4th 2020, 7:00 pm
 
 = = = = = spotify-this-song = = = = =
 
-Artist: Future
-Song title: Fine China
-Spotify link: https://open.spotify.com/track/5274I4mUMnYczyeXkGDWZN
-Album name: Future & Juice WRLD Present... WRLD ON DRUGS
+Artist: Post Malone
+Song title: Circles
+Spotify link: https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+Album name: Hollywood's Bleeding
 
 = = = = = spotify-this-song = = = = =
 
@@ -40,10 +40,10 @@ actors: Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy
 
 = = = = = spotify-this-song = = = = =
 
-Artist: GroovyRoom
-Song title: Sunday (feat. HEIZE, Jay Park)
-Spotify link: https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4
-Album name: EVERYWHERE
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Spotify link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album name: The Hits--Chapter One
 
 = = = = = spotify-this-song = = = = =
 

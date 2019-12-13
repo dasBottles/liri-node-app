@@ -9,6 +9,9 @@ let fs = require('fs');
 // axios
 let axios = require("axios");
 
+//inquirer
+let inquirer = require('inquirer');
+
 // Spotify API keys
 let Spotify = require('node-spotify-api');
 let keys = require("./keys");
