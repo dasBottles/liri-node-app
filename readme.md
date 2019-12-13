@@ -1,6 +1,6 @@
 # liri-node-app
 
-# Technology Used:
+## Technology Used:
 * axios
     * Used to request data from API used to print to console
 * dotenv
@@ -14,7 +14,7 @@
 * request
     * Used to request data from API used to print to console
 
-# Task 
+## Task 
 Create a node application that:  
 * Searches for a concert using user input as the query
 * Searches for a song also using the users' input
